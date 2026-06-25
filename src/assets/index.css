@@ -1,0 +1,6 @@
+/* Reset — Vite adds this file by default; keep it minimal */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
